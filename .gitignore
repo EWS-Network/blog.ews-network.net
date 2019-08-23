@@ -1,0 +1,6 @@
+*~
+*.pyc
+*__pycache*
+.doit.db
+output/*
+cache/*
