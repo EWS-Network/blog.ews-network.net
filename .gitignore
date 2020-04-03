@@ -4,3 +4,5 @@
 .doit.db
 output/*
 cache/*
+venv/*
+.venv/*
